@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#D08C60"                # terracota elegante
+backgroundColor="#FAF6F2"             # crema suave
+secondaryBackgroundColor="#F3EAE3"    # beige cálido
+textColor="#5A4636"                   # terracota oscuro (no negro)
+font="sans serif"

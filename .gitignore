@@ -1,0 +1,12 @@
+# entorno virtual
+diplo_dc.venv/
+
+# variables sensibles
+.env
+
+# cache de Python
+__pycache__/
+*.pyc
+
+# sistema mac
+.DS_Store
